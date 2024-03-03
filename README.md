@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Iimxal
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning HTML/Css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML/Css/python 
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 Iimxal/Iimxal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
