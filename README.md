@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning Html/Css/python 
 - 📫 How to reach me www.linkedin.com/in/imxaltmg242004
-- ig - @_laxmi.tmg_
+- www.instagram.com/in/@_laxmi.tmg_
 
 
 
