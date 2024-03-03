@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iimxal
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning HTML/Css/python 
-- 📫 How to reach me 
+- 📫 How to reach me www.linkedin.com/in/imxaltmg242004
 
 
 
