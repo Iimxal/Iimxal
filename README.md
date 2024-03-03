@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iimxal
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning HTML/Css/python 
+- 🌱 I’m currently learning Html/Css/python 
 - 📫 How to reach me www.linkedin.com/in/imxaltmg242004
 
 
