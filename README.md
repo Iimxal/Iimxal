@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Iimxal
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning HTML/CSS/PYTHON 
+- 👀 I’m interested in Cybersecurity and Datascience 
+- 🌱 I’m currently learning MySQL/PYTHON 
 - 📫 How to reach me ig-@_laxmi.tmg_
+- www.linkedin.com/in/imxaltmg242004
 
 
 
