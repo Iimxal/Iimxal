@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iimxal
-- 👀 I’m interested in Data Analyst 
+- 👀 I’m interested in Databases
 - 🌱 I’m currently learning MySQL/PYTHON 
 - 📫 How to reach me ig-@_laxmi.tmg_
 
